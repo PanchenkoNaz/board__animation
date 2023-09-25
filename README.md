@@ -3,7 +3,7 @@
 - CSS
 - Java Script
 
-Can you view [my project](https://panchenkonaz.github.io/desk__animation/)
+Can you view [my project](https://panchenkonaz.github.io/board__animation/)
 
 
 
